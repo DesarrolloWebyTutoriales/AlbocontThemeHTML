@@ -1,7 +1,7 @@
-# Master Plantillas WP
+# Albicont Plantilla HTML y Bootstrap
 
-## Elige y destaca
+## Indicaciones
 
 1. Descarga la plantilla HTML.
-2. Súbelo a un hosting y dominio.
+2. Súbelo a un hosting y dominio (o a tu cuenta Netlify).
 3. Disfrútalo.
